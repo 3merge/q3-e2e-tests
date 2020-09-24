@@ -10,5 +10,12 @@
 
 <h2>Workspaces</h2>
 <p>If you're interested in using Q3 or contributing to a project, visit a workspace below:</p>
-<p><a href="https://github.com/3merge/q3-api">🕮 Q3 API</a></p>
-<p><a href="https://github.com/3merge/q3-client">🕮 Q3 Client</a></p>
+
+<ul>
+  <li>
+    <a href="https://github.com/3merge/q3-api">Q3 API</a>
+  </li>
+  <li>
+    <a href="https://github.com/3merge/q3-client">Q3 Client</a>
+  </li>
+</ul>
